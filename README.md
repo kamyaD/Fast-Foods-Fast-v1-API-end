@@ -17,7 +17,7 @@ https://fast-foods-fast-v1.herokuapp.com/v1
 
 ## Pivotaltracker Link:
 
-https://travis-ci.org/kamyaD/Fast-Foods-Fast-v1-API-end
+https://www.pivotaltracker.com/n/projects/2198106
 
 ## Screen Shots:
 https://github.com/kamyaD/Fast-Foods-Fast-v1-API-end/issues/6#issue-360760747
