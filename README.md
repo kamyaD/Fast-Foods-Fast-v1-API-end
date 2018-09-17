@@ -20,8 +20,7 @@ https://fast-foods-fast-v1.herokuapp.com/v1
 https://travis-ci.org/kamyaD/Fast-Foods-Fast-v1-API-end
 
 ## Screen Shots:
-
-https://github.com/kamyaD/Second-Fast-Foods-Fast-Project/issues/4#issue-358184124
+https://github.com/kamyaD/Fast-Foods-Fast-v1-API-end/issues/6#issue-360760747
 
 ## Installation:
 1: Install Python 
