@@ -4,5 +4,9 @@ python:
 
 install:
   - pip3 install -r requirements.txt
-
-script: python firstfood_test.py
+  - pip install coveralls
+  - pip install pytest-cov
+script:
+  - python -m py.test --cov=firstfood.py
+after_success:
+  - coveralls
