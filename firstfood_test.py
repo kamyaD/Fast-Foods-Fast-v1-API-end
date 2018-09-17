@@ -1,6 +1,8 @@
-from firstfood import app 
-from firstfood import orders
 import unittest
+
+#local imports
+from firstfood import orders
+from firstfood import app 
 
 
 class apiEndpoints(unittest.TestCase):
