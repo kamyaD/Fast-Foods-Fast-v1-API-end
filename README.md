@@ -17,7 +17,7 @@ https://second-first-foods-first-proje.herokuapp.com/v1
 
 ## Pivotaltracker Link:
 
-https://www.pivotaltracker.com/n/projects/2195274
+https://travis-ci.org/kamyaD/Fast-Foods-Fast-v1-API-end
 
 ## Screen Shots:
 
