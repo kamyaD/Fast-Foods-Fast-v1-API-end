@@ -8,7 +8,7 @@ This project was created as a way to save time spent on long ques at restaurants
 
 ## Build Status (Badges):
 
-[![Build Status](https://travis-ci.org/kamyaD/Fast-Foods-Fast-v1-API-end.svg?branch=master)](https://travis-ci.org/kamyaD/Fast-Foods-Fast-v1-API-end) [![Heroku App Status](http://heroku-shields.herokuapp.com/second-first-foods-first-proje)](https://second-first-foods-first-proje.herokuapp.com/v1)  [![Maintainability](https://api.codeclimate.com/v1/badges/bc05ac8019fa2600a3ac/maintainability)](https://codeclimate.com/github/kamyaD/Second-Fast-Foods-Fast-Project/maintainability)
+[![Build Status](https://travis-ci.org/kamyaD/Fast-Foods-Fast-v1-API-end.svg?branch=master)](https://travis-ci.org/kamyaD/Fast-Foods-Fast-v1-API-end) [![Heroku App Status](http://heroku-shields.herokuapp.com/fast-foods-fast-v1)](https://fast-foods-fast-v1.herokuapp.com/v1)  [![Maintainability](https://api.codeclimate.com/v1/badges/bc05ac8019fa2600a3ac/maintainability)](https://codeclimate.com/github/kamyaD/Second-Fast-Foods-Fast-Project/maintainability)
 
 
 ## App URL on Heroku:
