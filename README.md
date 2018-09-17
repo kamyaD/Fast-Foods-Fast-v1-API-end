@@ -13,7 +13,7 @@ This project was created as a way to save time spent on long ques at restaurants
 
 ## App URL on Heroku:
 
-https://second-first-foods-first-proje.herokuapp.com/v1
+https://fast-foods-fast-v1.herokuapp.com/v1
 
 ## Pivotaltracker Link:
 
