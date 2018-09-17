@@ -8,7 +8,7 @@ This project was created as a way to save time spent on long ques at restaurants
 
 ## Build Status (Badges):
 
-[![Build Status](https://travis-ci.org/kamyaD/Fast-Foods-Fast-v1-API-end.svg?branch=master)](https://travis-ci.org/kamyaD/Fast-Foods-Fast-v1-API-end) [![Heroku App Status](http://heroku-shields.herokuapp.com/fast-foods-fast-v1)](https://fast-foods-fast-v1.herokuapp.com/v1) <a href="https://codeclimate.com/github/kamyaD/Fast-Foods-Fast-v1-API-end/maintainability"><img src="https://api.codeclimate.com/v1/badges/876648717921932747ad/maintainability" /></a> <a href="https://codeclimate.com/github/kamyaD/Fast-Foods-Fast-v1-API-end/test_coverage"><img src="https://api.codeclimate.com/v1/badges/876648717921932747ad/test_coverage" /></a>
+[![Build Status](https://travis-ci.org/kamyaD/Fast-Foods-Fast-v1-API-end.svg?branch=master)](https://travis-ci.org/kamyaD/Fast-Foods-Fast-v1-API-end) [![Heroku App Status](http://heroku-shields.herokuapp.com/fast-foods-fast-v1)](https://fast-foods-fast-v1.herokuapp.com/) <a href="https://codeclimate.com/github/kamyaD/Fast-Foods-Fast-v1-API-end/maintainability"><img src="https://api.codeclimate.com/v1/badges/876648717921932747ad/maintainability" /></a> <a href="https://codeclimate.com/github/kamyaD/Fast-Foods-Fast-v1-API-end/test_coverage"><img src="https://api.codeclimate.com/v1/badges/876648717921932747ad/test_coverage" /></a>
 
 
 ## App URL on Heroku:
