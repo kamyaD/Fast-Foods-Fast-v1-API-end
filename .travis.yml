@@ -7,6 +7,6 @@ install:
   - pip install coveralls
   - pip install pytest-cov
 script:
-  - pytest --cov=firstfood.py
+  - pytest --cov=firstfood
 after_success:
   - coveralls
